@@ -38,3 +38,11 @@ ESP32 kết hợp cảm biến MPU6050 để thu thập dữ liệu gia tốc v�
 ## Link Wokwi
 
 https://wokwi.com/projects/478024918068225025
+
+## Link mqtt broker
+
+https://mqttx.app/web-client#/recent_connections/f5114ada-ded1-48d1-90fb-4851fa364f23
+
+## Link báo cáo
+
+https://1drv.ms/w/c/e7b270d7fc49c93a/IQCYs2o0oheARZJr71U9oE4tAYZ-GZanSFFHwQ1_4jgZFpQ?e=dFiEmM
